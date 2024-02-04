@@ -5,7 +5,7 @@ a simple python script to convert text into speech using pygame, gtts modules.
 a simple python script to seach a element in list using binary search.
 
 # hash_generator
-a simple python script to generate hash of given words , Phrases.
+a simple python script to generate hash of given words , Phrases using hashlib module.
 
 # countdown
-a simple python script to generate countdown.
+a simple python script to generate countdown using time module.
