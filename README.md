@@ -9,3 +9,6 @@ a simple python script to generate hash of given words , Phrases using hashlib m
 
 # countdown
 a simple python script to generate countdown using time module.
+
+# arithmatic calculator
+a simple arithmatic calculator capable of performing basic arithmatic operation.
